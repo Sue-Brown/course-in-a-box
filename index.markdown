@@ -29,5 +29,5 @@ on the web. In the last 5 years, we put together courses like
 Also, we're a non-profit and a distributed team (so we use the tools we recommend).
 
 			
-## I'm in--how do I get started?
-Head over [here]({{site.baseurl}}/modules/start/about-this-course/) to create your own course!
+## This is Susan's Demo Course
+
