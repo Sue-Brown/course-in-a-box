@@ -4,9 +4,15 @@ published: true
 ---
 
 
-## This is Susan's Demo Course
+## THIS IS SUSAN'S DEMO COURSE
 
-## This is P2PU Boiler-Plate Introductory Material
+
+
+
+## THIS IS P2PU BOILERPLATE COPY
+
+
+
 
 ## Create a Learning Community that Lasts
 
