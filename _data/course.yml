@@ -1,6 +1,6 @@
 title: Susan's Demo Course
 description: Build Your Very Own Open Course
-modules: [intro, community, learning, content, feedback, references]
+modules: [intro, community, learning, Demo Module 1, Demo Module 2, feedback, references]
 signups:
  - name: Geert Hofman
    image: https://media.licdn.com/media/p/3/000/1b0/2c9/2daad0c.jpg
