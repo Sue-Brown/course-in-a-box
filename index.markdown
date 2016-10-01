@@ -3,6 +3,11 @@ layout: index
 published: true
 ---
 
+
+## This is Susan's Demo Course
+
+## This is P2PU Boiler-Plate Introductory Material
+
 ## Create a Learning Community that Lasts
 
 Online courses often feel large, intimidating and anonymous. It's hard to feel invested
@@ -29,5 +34,5 @@ on the web. In the last 5 years, we put together courses like
 Also, we're a non-profit and a distributed team (so we use the tools we recommend).
 
 			
-## This is Susan's Demo Course
+
 
